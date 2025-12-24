@@ -1,4 +1,3 @@
-````markdown name=README.md
 # GUI-Agent- 知识库与学习路线（Agent Wiki）
 
 版本：v0.1  
@@ -273,4 +272,3 @@ env:
 - 如果你希望，我可以先生成几个典型页面的完整 Markdown 初稿供你 review（例如：minimal-agent-tutorial.md、architecture-overview.md、planner.md）。
 
 请选择你希望我接下来做的事情，或者直接回复“先生成初始页面”并列出你优先需要的页面（最多 5 个），我会把它们以 Markdown 文件形式生成供你复制/提交。
-````
